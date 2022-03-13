@@ -54,9 +54,14 @@ select {
         margin-bottom: 1%;
 
 }
-.button{
-    text-align: center;
-    margin-left: 50%;
+#btn{
+    background-color: #92b910;
+    color: white;
+    padding: 14px 18px;
+    font-size: 14px;
+    border:#1e3504;
+    cursor: pointer;
+    margin-bottom: 1%;
 }
 
 #conditions{
@@ -67,3 +72,5 @@ select {
     background-color: #274605;
     color: aliceblue;
 }
+
+
