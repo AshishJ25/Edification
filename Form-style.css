@@ -1,0 +1,69 @@
+.head{
+    text-align: left;
+}
+
+#icon{
+    size: 0mm;
+    margin-top: 24px;
+}
+
+.ex2{
+    font-size: 25px;
+    text-align: right;
+    margin-right: 1%;
+    margin-top: -8%;
+    color: beige;
+}
+
+body{
+    background-color: #d9ed92;
+}
+
+.heading{
+    background-color: #1e3504;
+    color: white;
+    height: 244px;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quizbody{
+    font-size: 25px;
+    perspective: 3300px;
+}
+
+.para1{
+    font-size: 30px;
+}
+
+.conditions{
+    font-size: 35px;
+}
+
+#anxiety{
+    font-size: 30px;
+}
+
+select {
+        background-color: #92b910;
+        color: white;
+        padding: 14px;
+        font-size: 14px;
+        border:#1e3504;
+        cursor: pointer;
+        margin-bottom: 1%;
+
+}
+.button{
+    text-align: center;
+    margin-left: 50%;
+}
+
+#conditions{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    background-color: #274605;
+    color: aliceblue;
+}
