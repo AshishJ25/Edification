@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+* {
+    box-sizing: border-box;
+}
 button {
     display: inline-block;
     background-color: #a6d509;
@@ -162,4 +165,21 @@ h1{
   .dropdown a:hover {background-color: #52b69a;}
   
   .show {display: block;}
+
+
+footer {
+    height: 25vh;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+
+
+  #reference{
+      width: 100%;
+      height: 25vh;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+  }
  
